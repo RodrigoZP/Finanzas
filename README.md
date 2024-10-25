@@ -5,3 +5,5 @@ Algunos archivos disponibles:
 2.- Archivo Excel con información descargable utilizada para el análisis realizado.
 
 3.- Apunte de Finanzas I realizado por mí para los estudiantes que les realizo ayudantías de Finanzas I.
+
+4.- Análisis del impacto del Covid-19 en cambios de fondos para afiliados en Chile.
